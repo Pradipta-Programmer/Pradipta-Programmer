@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/main/banner.svg" alt="Pradipta Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hey 👋 What's Up? Welcome To My Page</h1>
 
 <p align="center">
@@ -12,15 +16,19 @@
 
 ---
 
+<h3 align="center">Let's Connect and have a Chat! 💬</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/Pradipta-Programmer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="60" height="60"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60"/>
   </a>
 </p>
 
