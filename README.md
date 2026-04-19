@@ -38,7 +38,25 @@
 ## 🗣️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipta-Programmer&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=6" width="40%" alt="Top Languages"/>
+
+```
+Python      ████████████████████████░░░░░░░   38%
+Java        ██████████████████░░░░░░░░░░░░░   30%
+C           ████████████░░░░░░░░░░░░░░░░░░░   16%
+C++         ████████░░░░░░░░░░░░░░░░░░░░░░░   12%
+Rust        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    3%
+Node.js     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1%
+```
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-38%25-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-30%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-16%25-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-12%25-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-3%25-CE422B?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-1%25-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </p>
 
 ---
@@ -78,7 +96,7 @@
 ```python
 pradipta = {
     "username":   "Pradipta-Programmer",
-    "languages":  ["Python", "C", "C++", "Java"],
+    "languages":  ["Python", "Java", "C", "C++", "Rust", "Node.js"],
     "interests":  ["Open Source", "Algorithms", "System Programming"],
     "currently":  "Building cool things & learning every day 🚀",
     "fun_fact":   "I debug with print() and I'm not ashamed 😄"
