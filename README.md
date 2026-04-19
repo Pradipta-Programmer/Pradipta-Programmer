@@ -23,11 +23,11 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/users/pradiptasingha" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/pradipta_singha_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60"/>
   </a>
 </p>
