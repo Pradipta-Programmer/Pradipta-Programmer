@@ -77,15 +77,15 @@ Node.js     █░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🐍 Pac-Man Contribution Snake
+## 🟡 Pac-Man Contribution Graph
 
-> **Setup required:** Add the GitHub Action below to generate the Pac-Man animation automatically.
+> **Setup required:** Add `pacman.yml` inside `.github/workflows/` to generate the Pac-Man animation automatically.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman.svg"/>
+    <img alt="GitHub Contribution Pac-Man" src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman-dark.svg"/>
   </picture>
 </p>
 
