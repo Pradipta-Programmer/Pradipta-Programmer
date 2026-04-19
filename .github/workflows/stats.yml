@@ -1,8 +1,6 @@
 name: Generate Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,19 +8,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4   # ✅ updated
 
-      - uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5   # ✅ updated
         with:
-          python-version: 3.x
+          python-version: 3.11
 
-      - run: pip install requests
+      - name: Install requests
+        run: pip install requests
 
-      - run: python generate_stats.py
+      - name: Run script
+        run: python generate_stats.py
 
-      - run: |
+      - name: Commit file
+        run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add stats.svg
-          git commit -m "Update stats" || echo "No changes"
+          git commit -m "update stats" || echo "no changes"
           git push
