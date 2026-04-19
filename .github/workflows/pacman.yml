@@ -16,17 +16,17 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate GitHub Contribution Pac-Man
-        uses: Platane/snk/svg-only@v3
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-pacman.svg?type=pacman
-            dist/github-contribution-grid-pacman-dark.svg?type=pacman&palette=github-dark
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Push Pac-Man to output branch
+      - name: Generate Pac-Man
+        uses: hugoalh/github-contribution-svg-pacman@v0.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: ${{ github.repository_owner }}
+          output_path: dist/github-contribution-grid-pacman.svg
+
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
