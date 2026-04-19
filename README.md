@@ -79,8 +79,6 @@ Node.js     █░░░░░░░░░░░░░░░░░░░░░�
 
 ## 🟡 Pac-Man Contribution Graph
 
-> **Setup required:** Add `pacman.yml` inside `.github/workflows/` to generate the Pac-Man animation automatically.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman-dark.svg"/>
