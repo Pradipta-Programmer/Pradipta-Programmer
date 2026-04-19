@@ -19,7 +19,7 @@
 <h3 align="center">Let's Connect and have a Chat! 💬</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Pradipta-Programmer" target="_blank">
+  <a href="https://www.linkedin.com/in/pradiptasingha/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;
