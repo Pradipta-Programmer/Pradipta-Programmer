@@ -1,54 +1,94 @@
-<h1 align="center">Hey 👋<br>What's Up?<br>Welcome To My Page</h1>
+<h1 align="center">Hey 👋 What's Up? Welcome To My Page</h1>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+Java+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,linux,git,github,vscode" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pradiptasingha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Pradipta-Programmer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/pradiptasingha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/pradipta_singha_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradipta-Programmer&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradipta-Programmer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Pradipta-Programmer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradipta-Programmer&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradipta-Programmer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradipta-Programmer&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7ff&ring=00f7ff&fire=ff6b6b&currStreakLabel=00f7ff" width="48%" alt="GitHub Streak"/>
+</p>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/pacman-contribution-graph.svg">
-</picture>
+## 🗣️ Most Used Languages
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipta-Programmer&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&langs_count=6" width="40%" alt="Top Languages"/>
+</p>
 
+---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradipta-Programmer&bg_color=0d1117&color=00f7ff&line=ff6bcb&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pradipta-Programmer&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+</p>
+
+---
+
+## 🐍 Pac-Man Contribution Snake
+
+> **Setup required:** Add the GitHub Action below to generate the Pac-Man animation automatically.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## 💻 About Me
+
+```python
+pradipta = {
+    "username":   "Pradipta-Programmer",
+    "languages":  ["Python", "C", "C++", "Java"],
+    "interests":  ["Open Source", "Algorithms", "System Programming"],
+    "currently":  "Building cool things & learning every day 🚀",
+    "fun_fact":   "I debug with print() and I'm not ashamed 😄"
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pradipta-Programmer&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
+
+<p align="center"><i>⭐ Star my repos if you find them useful!</i></p>
