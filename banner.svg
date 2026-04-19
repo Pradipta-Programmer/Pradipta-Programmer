@@ -1,0 +1,63 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Pradipta-Programmer banner v3</title>
+  <desc>Dark blue banner with bordered name and thicker subtitle border</desc>
+  <style>
+    @keyframes underline { 0%{width:0} 60%{width:320px} 100%{width:320px} }
+    @keyframes fadeUp { 0%{opacity:0;transform:translateY(14px)} 40%{opacity:0;transform:translateY(14px)} 100%{opacity:1;transform:translateY(0)} }
+    @keyframes orbit { 0%{transform:rotate(0deg) translateX(28px)} 100%{transform:rotate(360deg) translateX(28px)} }
+    @keyframes twinkle { 0%,100%{opacity:1} 50%{opacity:0.2} }
+    @keyframes slideIn { 0%{opacity:0;transform:translateX(-30px)} 60%{opacity:0;transform:translateX(-30px)} 100%{opacity:1;transform:translateX(0)} }
+    .underline-anim { animation: underline 2.2s ease-out forwards; }
+    .subtitle { animation: fadeUp 2.8s ease-out forwards; }
+    .orb1 { animation: orbit 4s linear infinite; transform-origin: 80px 80px; }
+    .orb2 { animation: orbit 6s linear infinite reverse; transform-origin: 600px 80px; }
+    .s1 { animation: twinkle 1.8s ease-in-out infinite; }
+    .s2 { animation: twinkle 2.4s ease-in-out infinite 0.5s; }
+    .s3 { animation: twinkle 1.4s ease-in-out infinite 1s; }
+    .s4 { animation: twinkle 2s ease-in-out infinite 0.3s; }
+    .name { animation: slideIn 1.8s ease-out forwards; }
+  </style>
+
+  <rect x="0" y="0" width="680" height="160" rx="12" fill="#0D1540"/>
+  <rect x="2" y="2" width="676" height="156" rx="11" fill="none" stroke="#1E90FF" stroke-width="2" opacity="0.6"/>
+
+  <circle class="s1" cx="120" cy="25"  r="2" fill="white" opacity="0.8"/>
+  <circle class="s2" cx="200" cy="18"  r="1.5" fill="#90CAFF" opacity="0.9"/>
+  <circle class="s3" cx="480" cy="22"  r="2" fill="white" opacity="0.7"/>
+  <circle class="s4" cx="560" cy="30"  r="1.5" fill="#90CAFF" opacity="0.8"/>
+  <circle class="s1" cx="320" cy="14"  r="1" fill="white" opacity="0.6"/>
+  <circle class="s3" cx="650" cy="20"  r="1.5" fill="white" opacity="0.7"/>
+  <circle class="s2" cx="40"  cy="130" r="1.5" fill="#90CAFF" opacity="0.5"/>
+  <circle class="s4" cx="630" cy="135" r="1.5" fill="white" opacity="0.5"/>
+
+  <g class="orb1">
+    <circle cx="80" cy="80" r="6" fill="#1E90FF" opacity="0.9"/>
+  </g>
+  <g class="orb2">
+    <circle cx="600" cy="80" r="5" fill="#60B8FF" opacity="0.8"/>
+  </g>
+
+  <circle cx="80" cy="80" r="18" fill="none" stroke="#1E90FF" stroke-width="1" opacity="0.25" stroke-dasharray="3 3"/>
+  <circle cx="600" cy="80" r="15" fill="none" stroke="#60B8FF" stroke-width="1" opacity="0.25" stroke-dasharray="3 3"/>
+
+  <polygon points="80,52 86,68 80,64 74,68" fill="#1E90FF" opacity="0.5"/>
+  <polygon points="600,48 607,66 600,61 593,66" fill="#60B8FF" opacity="0.45"/>
+
+  <g class="name">
+    <text x="340" y="78" text-anchor="middle"
+      font-family="'Arial Black', Impact, sans-serif"
+      font-size="52" font-weight="900" letter-spacing="4"
+      fill="white"
+      stroke="#1E90FF" stroke-width="3" paint-order="stroke">I'M PRADIPTA</text>
+  </g>
+
+  <rect x="180" y="88" height="3" rx="2" fill="#1E90FF" class="underline-anim"/>
+
+  <g class="subtitle">
+    <rect x="225" y="100" width="230" height="30" rx="15" fill="none" stroke="#1E90FF" stroke-width="3"/>
+    <text x="340" y="120" text-anchor="middle"
+      font-family="'Courier New', monospace"
+      font-size="12" font-weight="700" letter-spacing="2"
+      fill="#90CAFF">OPEN SOURCE B3G1N9R :)</text>
+  </g>
+</svg>
