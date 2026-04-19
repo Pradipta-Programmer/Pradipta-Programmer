@@ -1,0 +1,5 @@
+
+<svg width="400" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#282a36"/>
+  <text x='10' y='20' fill='white'>TypeScript: 56.24%</text><text x='10' y='40' fill='white'>Java: 33.24%</text><text x='10' y='60' fill='white'>Python: 8.88%</text><text x='10' y='80' fill='white'>CSS: 0.95%</text><text x='10' y='100' fill='white'>HTML: 0.46%</text><text x='10' y='120' fill='white'>JavaScript: 0.23%</text>
+</svg>
