@@ -80,11 +80,7 @@ Node.js     █░░░░░░░░░░░░░░░░░░░░░�
 ## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman.svg"/>
-    <img alt="GitHub Contribution Pac-Man" src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/output/github-contribution-grid-pacman.svg" alt="GitHub Contribution Pac-Man"/>
 </p>
 
 ---
