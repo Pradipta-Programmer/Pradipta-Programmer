@@ -1,8 +1,8 @@
+<h1 align="center">Hey 👋 What's Up? Welcome To My Page</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pradipta-Programmer/Pradipta-Programmer/main/banner.svg" alt="Pradipta Banner" width="100%"/>
 </p>
-
-<h1 align="center">Hey 👋 What's Up? Welcome To My Page</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Python+%7C+C%2B%2B+%7C+Java+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
